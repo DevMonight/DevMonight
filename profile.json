@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "login": "DevMonight",
+  "seed": "#9141AC",
+  "seedFromAvatar": false,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "DevMonight",
+    "subtitle": "DevOps Engineer & Server Enthusiast",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia"
+      },
+      {
+        "icon": "brand:linux",
+        "label": "Linux"
+      },
+      {
+        "icon": "brand:devdotto",
+        "label": "DevOps"
+      },
+      {
+        "icon": "brand:kalilinux",
+        "label": "Kali Lunux"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "DevOps & SysAdmin"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly backend"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:dotnet",
+            "label": "Network"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux Servers"
+          },
+          {
+            "icon": "brand:1dot1dot1dot1",
+            "label": "VPN"
+          },
+          {
+            "icon": "brand:kalilinux",
+            "label": "Kali pentest"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:github",
+        "url": "https://DevMonight"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://DevMonight"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [],
+    "card": true
+  }
+}

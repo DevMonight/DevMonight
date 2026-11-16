@@ -1,19 +1,10 @@
 {
- "key": "557319db",
- "stars": 1,
- "contributions": 15,
- "repos": 6,
+ "key": "53ecc0bb",
+ "stars": 0,
+ "contributions": 13,
+ "repos": 2,
  "followers": 0,
- "languages": [
-  [
-   "Python",
-   14206
-  ],
-  [
-   "Procfile",
-   21
-  ]
- ],
+ "languages": [],
  "days": [
   [
    {
@@ -96,7 +87,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 16,
     "today": true
    },
@@ -108,27 +99,17 @@
   ]
  ],
  "streak": {
-  "current": 1,
-  "longest": 1
+  "current": 2,
+  "longest": 2
  },
- "pins": [
-  {
-   "name": "Create-my-pesonal-vpn",
-   "url": "https://github.com/DevMonight/Create-my-pesonal-vpn",
-   "text": "Как создать свой впн с помощью приложения AmneziaVPN",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  }
- ],
+ "pins": [],
  "all": [
   {
-   "name": "Outline-VPN",
-   "url": "https://github.com/DevMonight/Outline-VPN",
-   "text": "Outline VPN — приватный доступ",
+   "name": "App",
+   "url": "https://github.com/DevMonight/App",
+   "text": "",
    "fork": false,
-   "stars": 1,
+   "stars": 0,
    "language": null,
    "topics": []
   },
@@ -136,42 +117,6 @@
    "name": "DevMonight",
    "url": "https://github.com/DevMonight/DevMonight",
    "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "Create-my-pesonal-vpn",
-   "url": "https://github.com/DevMonight/Create-my-pesonal-vpn",
-   "text": "Как создать свой впн с помощью приложения AmneziaVPN",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "-",
-   "url": "https://github.com/DevMonight/-",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "telegram-bot",
-   "url": "https://github.com/DevMonight/telegram-bot",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "Kali",
-   "url": "https://github.com/DevMonight/Kali",
-   "text": "Kali",
    "fork": false,
    "stars": 0,
    "language": null,
